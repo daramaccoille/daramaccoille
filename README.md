@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dara Mac Coille</h1>
 <h3 align="center">A passionate developer from Ireland</h3>
-- 🔭 I’m currently working on [in Coláiste Feirste](<a href="www.colaistefeirste.org">)
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working in Coláiste Feirste(<a href="www.colaistefeirste.org">)
+- 🌱 I’m currently learning Java as part of a Masters of Science degree with Queen's University Belfast
 - 👯 I’m looking to collaborate on anything really!
 - 📝 I write articles in Irish on software issues [daramaccoille.wordpress.com](daramaccoille.wordpress.com)
 - 💬 Ask me about Microsoft Access, vba, C#, AWS
