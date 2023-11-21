@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in <a href="www.colaistefeirste.org">Coláiste Feirste</a>
 - 🌱 I’m currently learning Java as part of a Masters of Science degree with Queen's University Belfast
 - 👯 I’m looking to collaborate on anything really!
-- 📝 I write articles in Irish on software issues [daramaccoille.wordpress.com](daramaccoille.wordpress.com)
+- 📝 I write articles in Irish on software issues <a href="daramaccoille.wordpress.com">daramaccoille.wordpress.com</a>
 - 💬 Ask me about Microsoft Access, vba, C#, AWS
 - 📫 How to reach me daramaccoille@yahoo.com
 - ⚡ Fun fact I once thought my mum was on holidays, but she was just away shopping at 'Iceland' 🇮🇸
