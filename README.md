@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dara Mac Coille</h1>
 <h3 align="center">A passionate developer from Ireland</h3>
-- 🔭 I’m currently working on [in Coláiste Feirste](www.colaistefeirste.org)
-- 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **anything really!**
+- 🔭 I’m currently working on [in Coláiste Feirste](<a href="www.colaistefeirste.org">)
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on anything really!
 - 📝 I write articles in Irish on software issues [daramaccoille.wordpress.com](daramaccoille.wordpress.com)
-- 💬 Ask me about **Microsoft Access, vba, C#, AWS**
-- 📫 How to reach me **daramaccoille@yahoo.com**
-- ⚡ Fun fact **I once thought my mum was on holidays, but she was just away shopping at 'Iceland' 🇮🇸**
+- 💬 Ask me about Microsoft Access, vba, C#, AWS
+- 📫 How to reach me daramaccoille@yahoo.com
+- ⚡ Fun fact I once thought my mum was on holidays, but she was just away shopping at 'Iceland' 🇮🇸
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/daramac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daramac" height="30" width="40" /></a>
