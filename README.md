@@ -3,10 +3,10 @@
 - 🔭 I’m currently working in <a href="www.colaistefeirste.org">Coláiste Feirste</a>
 - 🌱 I’m currently learning Java as part of a Masters of Science degree with Queen's University Belfast
 - 👯 I’m looking to collaborate on anything really!
-- 📝 I write articles in Irish on software issues <a href="daramaccoille.wordpress.com">daramaccoille.wordpress.com</a>
-- 💬 Ask me about Microsoft Access, vba, C#, AWS
-- 📫 How to reach me daramaccoille@yahoo.com
-- ⚡ Fun fact I once thought my mum was on holidays, but she was just away shopping at 'Iceland' 🇮🇸
+- 📝 I write software help articles <a href="daramaccoille.wordpress.com">daramaccoille.wordpress.com</a>
+- 💬 Ask me about Microsoft Access, vba, C#, Java, AWS
+- 📫 How to reach me daramaccoille@yahoo[dot]com
+- ⚡ Fun fact I play the Irish sport of <a href="https://www.youtube.com/watch?v=fgEMvRrOCRI">hurling</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/daramac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daramac" height="30" width="40" /></a>
